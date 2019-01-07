@@ -1,0 +1,373 @@
+------------------------------------------------------------SPRITES-------------------------------------------------
+24*48
+----------------------------ITEMS-----------------------
+Wizzrobe Rod
+	-Beam (16*16, 4 Directions, Short glowing animation)
+	-Firey Beam(16-18*16-18, 4 Directions, Short glowing/flaming animation)
+	-Fire Hitting Wall(32*16, animation of it dying out)
+Flute - Teleporting
+	-One of two ways
+		-like leaving caves in oot/ww/etc. beam of light and travel up.
+		-Stars spinning like oot ocarina teleport
+Candle
+	-Swinging Candle(4 Directions, Like Sword swinging)
+	-Leftover Flame(Same as wizzrobe request)
+
+----------------------Menu Sprites/HUD-----------------
+Z,X,C,V Buttons
+	-Fit into HUD, Same Size.
+Menu
+	-Need Background Design
+	-Follows Template Given
+Items in the Newer style
+	-Boomerang
+	-Bombs
+	-Wizzrobe Wand
+	-Bow(Final Style?)
+	-Ocarina/Flute
+	-Candle
+	-Blue/Red Drinks
+	-Peice of Paper
+	-Hookshot
+	-3 Tunics
+	-Wooden Shield
+	-Hylain Shield(Finalized?)
+	-Wooden Sword
+	-Sharp Sword
+	-Master Sword
+	-Power Bracelets
+	-Flippers
+	-Ancient Book	
+	-Skeleton Key
+-------------Extra Space----
+	-Textbox( around 250*64, but can be stretched a bit)
+------------------------Living Objects
+Characters
+	-All that i can rack up. Slight Edits from LTTP suffice.
+	-Few key characters(Old Man/women)
+
+---------------------Environment
+Fog Sprites(LTTP?) Prefer a larger version with more random clouds not repeated
+Upgraded Beach Tileset
+
+----------------------------------------------------------------------------CODING------------------------------------
+Candle
+	-darkens screen
+	-Link has circle around it and so does flame
+	-lighting candles makes the dark a bit brighter and has its own ring
+Mappings
+	-Entering first floor of every dungeon
+Enemies
+	-Leever(Done)
+	-ChuChus(Done)
+	-Tektikes(Done)
+	-Red Leever(Done)
+	-Zolas(Done)
+	-Beamos(Needs some touchups)
+	-Deku Babas(Done)
+	-Deku Sprouts(Done)
+	-Armos(Needs some touchups)
+	-Chaser(Done)
+	-Stalfos
+	-Bats
+	-LikeLikes(Kinda Done)
+	-Skulltulas
+	-Darknuts/Dinolfos
+	-Dodongo
+		-Walking on all fours
+		-Stopping
+		-if see you then launch fireball
+		-Eating bomb kills
+	-Boulders
+	-Wallmasters
+	-Wizzrobes
+	-Poes
+	-Redeads(Done)
+Death
+	-Choose menu
+Fixes 
+	-Anim with wooden Sword
+Menu Screens
+Dungeons being beaten or not on map
+--------------------------BOTTLES
+0 = Empty(Swooping Motion)
+1 = Red Potion(recover all slowhearts2)
+2 = Blue Potion(recover 8 slowhearts)(recover half magic slowmagic1)
+3 = Green Potion(recover all slowmagic)
+4 = Fairy(Recover 8 slowhearts)
+5 = Milk(recover 5 slowhearts1)
+6 = Half Milk(recover 5 slowhearts1)
+----------------------------------------------------------------------IDEAS---------------------------------
+Dungeon Redesign
+Inclusion of Temple Of Time Ruins
+Master Sword Replaces Magic Sword
+Finding The Triforce of Courage Shards
+Deletion of Unneeded gamble caves and such(may save one or two)
+Inclusion of LTTP and up styled caves/exploration
+No burning paths with the candle
+Small Amount of Heart Peices
+Sidequests? Biggoron Sword instead of magic sword?
+Epona? probably not.
+Diverse Species in caves near own places. 
+	-Gorons in mountains
+	-Nothing in Desert.
+	-Kokori in forest
+	-Zolas are enimies
+	-"Wandering Salesmen?"
+
+heartstone
+COLLECTABLES
+	-pick what you are collecting
+	-where i redeem	
+	-prizes = bigger quivers and shit
+	-one heart container
+
+DUNGEON 1
+	Theme: Starter. Simple
+	Item Gotten: Bow and Arrow
+	Boss:
+	Extra: Small, Simple. Deku Tree like, intro. 1 floor.
+DUNGEON 2
+	Theme: Foresty
+	Item Gotten: Boomerang
+	Boss:
+	Extra: Larger, but still not a full dungeon. 1 floor. lots of puzzles with boomerang and bow.
+DUNGEON 3
+	Theme: Simple Thing
+	Item Gotten: Hookshot (optional Bombs bought in first few rooms
+	Boss:
+	Extra: First full size. 2 floors. Hookshot challenges, enemies are a bit stronger.
+DUNGEON 4
+	Theme: Water
+	Item Gotten: Flippers (Optional) Blue Tunic
+	Boss:
+	Extra: maybe only one floor. draining water? mostly thinking not fighting.
+DUNGEON 5
+	Theme: Marble, Fancy(ToT since ocarina?)
+	Item Gotten: Whistle
+	Boss:
+	Extra: Small Dungeon, not many puzzles but lots of strong enemies
+DUNGEON 6
+	Theme: Icy Dungeon
+	Item Gotten: Wizzrobe Wand
+	Boss:
+	Extra: Multifloor, Ice puzzles, decently hard enemies.
+DUNGEON 7
+	Theme: Simple. then after candle is used to open basement, then dark and traplike.
+	Item Gotten: Candle (Optional) Red Tunic
+	Boss:
+	Extra: lots of fighting until get candle, then make it useful for once with some MC style puzzles
+DUNGEON 8
+	Theme: Underground. Dark(Need candle)
+	Item Gotten: Book for Wand. (Optional) Skeleton Key
+	Boss:
+	Extra: Dark. mostly puzzle solving. traps, trap floors, holes, spikes, etc.
+Dungeon 9
+	Theme: Underground for the first few, Then Royal/Dark.
+	Item Gotten:Light Arrows
+	Boss: Ganondorf - Ganon(2 Stage isnt usually done in 2d)
+	Extra: Long. Hard enemies. Lots of damage. Big. Multi floored. Many keys 
+
+Underground areas sell
+1: Weapon Shops
+	Bombs
+	Arrows
+	Metal Shield
+2: Potion shops
+	Red Potion
+	Blue Potion
+	Faries
+
+
+
+Enemies
+Octoroks
+Tektikes
+Sand Dweller Things
+Deku Scrubs'
+PeaHats
+Moblin
+Big Moblin(WW ones)
+Keese(Various kinds)
+Knights
+Darknuts(Only a few. make em hard battles.)
+--------------------Upgrades/unlockables?
+Boomerang
+	-Double Range?
+Bombs
+	-60 pack(large)
+	-99 pack(giant)
+Arrows
+	-60 quiver(large)
+	-99 quiver(giant)
+Hookshot
+	-Maybe double range
+Shields
+	-Metal(cant burn but can steal)
+	-SuperShield
+Swords
+	-Wooden sword (Dungeon)
+	-Master sword(Dungeon)
+
+
+-Metal(cant burn but can steal) ---Bought at stores----
+-Maybe double range ----Upgrade in secret fountain----
+-Blue(more damage/longer burn?) -----Buying it? NEED CANDLE THO----
+-60 quiver(large) ---Collectable 2----
+-99 quiver(giant) ---Collectable 4----
+-60 pack(large)----Collectable 1----
+-99 pack(giant)----Collectable 3----
+-Double Range? ----Secret range fountian----
+-Magic 1
+-Magic 2
+Upgradeable faries(2, one bow one hookshot. secret secret one to turn hylain shield into super shield
+4 collectables 
+(souls of fallen warriors)
+Prizes
+1) 10 rupees
+5) 50 rupees
+10) Wallet(255)
+15) Magic Boomerang
+20) 100 rupees
+30) Wallet(999)
+40) tip on super shield
+50) Heart container
+
+Well Thingy
+100) Bomb upgrade(60 pack)
+150) Arrow upgrade(60 quiver)
+200) Bomb upgrade(99 pack)
+250) Arrow upgrade (99 quiver)
+
+
+34.1 = 3816 1184
+34.2 = 6384 1248
+34.3 = 2320 2608
+34.4 = 2808 1632
+34.5 = 5880 176
+34.6 = 7952 224
+34.7 =
+34.8 = 6912 2144
+34.9 = 2736 208
+
+Dungeon 2: vines, Deku tree. green brown. webs
+Dungeon 3: Ornate. White. Marble. Not too fancy. Clean
+Dungeon 4: Water. Blues. Rock but not underground. Sandy. Light
+Dungeon 5: Temple of Time tilesets. Gold. White. Fancy.
+Dungeon 7: Broken down regular tilesets. Merge into walls and cave walls mixing.
+Dungeon 8: Caves to start. Soon dark castle. Opposite from 5.
+
+
+
+
+Dungeon 1:
+	Theme: Regular Dungeon
+	Combat or Puzzle: Middle
+	Difficulty: Easy
+	Main Boss:
+	Puzzle Ideas: Bow and Arrow Eye, Timing Arrows, Shooting Arrows through fire
+	Main Spoil = Bow and Arrow
+	Extra Spoil 1 = /
+	Extra Spoil 2 = /
+
+Dungeon 2:
+	Theme: 
+	Combat or Puzzle:
+	Difficulty:
+	Main Boss:
+	Puzzle Ideas:
+	Main Spoil = Boomerang
+	Extra Spoil 1 = /
+	Extra Spoil 2 = /
+
+Dungeon 3:
+	Theme: 
+	Combat or Puzzle:
+	Difficulty:
+	Main Boss:
+	Puzzle Ideas:
+	Main Spoil = Bombs
+	Extra Spoil 1 = Blue Tunic
+	Extra Spoil 2 = /
+
+Dungeon 4:
+	Theme: 
+	Combat or Puzzle:
+	Difficulty:
+	Main Boss:
+	Puzzle Ideas:
+	Main Spoil = Hookshot
+	Extra Spoil 1 = Flippers
+	Extra Spoil 2 = /
+
+Dungeon 5:	
+	Theme: 
+	Combat or Puzzle:
+	Difficulty:
+	Main Boss:
+	Puzzle Ideas:
+	Main Spoil = Ocarina
+	Extra Spoil 1 = /
+	Extra Spoil 2 = /
+
+Dungeon 6:
+	Theme: 
+	Combat or Puzzle:
+	Difficulty:
+	Main Boss:
+	Puzzle Ideas:
+	Main Spoil = Wizzrobe Wand
+	Extra Spoil 1 = /
+	Extra Spoil 2 = /
+
+Dungeon 7:
+	Theme: 
+	Combat or Puzzle:
+	Difficulty:
+	Main Boss:
+	Puzzle Ideas:
+	Main Spoil = Candle
+	Extra Spoil 1 = Book for wand
+	Extra Spoil 2 =
+
+Dungeon 8:
+	Theme: 
+	Combat or Puzzle:
+	Difficulty:
+	Main Boss:
+	Puzzle Ideas:
+	Main Spoil = Red Tunic
+	Extra Spoil 1 = Nayru
+	Extra Spoil 2 =
+
+Dungeon 9:
+	Theme: 
+	Combat or Puzzle:
+	Difficulty:
+	Main Boss:
+	Puzzle Ideas:
+	Main Spoil = Light Arrows
+	Extra Spoil 1 = Skeleton Key
+	Extra Spoil 2 =
+
+-----------------Needed for demo 1-------------
+put swords, shield, bottles, and bracelet sword beam and magic 2 into random caves.
+
+bracelet - pushing
+starting stores?
+release demo 1.0.
+
+1744 120
+
+1: Regular Dungeon LTTP Tileset(GOT)
+2: Deku tree foresty vines etc
+3: Broken down Tileset. Dirty, cracks everywhere
+4: Watery. Think zoras domain
+5: Marble. Fancy. White. Golds. Temple of time esque?
+6: Icy dungeon(GOT)
+7:
+8:
+9: Underground ganons fortress. fancy. black. purple. detailed
+
+226 160 - note
+260 160 -thing

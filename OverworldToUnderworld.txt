@@ -1,0 +1,53 @@
+GRAVEYARD
+-Library = 3_1
+-Grave 1 = 3_2
+-Grave 2 = 3_3
+-Grave 3 = 3_4
+---Grave 4 = 3_ 5                                                          		= 10_31 = Sword 3
+
+SNOWY
+---Hidden Wall 1 = 4_1                                                             	= 10_29
+
+BEACH
+Hidden Wall 1 = 5_1
+Hidden Wall 2 = 5_2
+Hidden Wall 3 = 5_3
+
+DESERT
+Hidden Wall 1 = 6_1
+Hidden Wall 2 = 6_2
+Hidden Wall 3 = 6_3
+---Hidden Waterfall = 6_4                                                   		= 10_30
+
+HILLS
+Open Wall 1 = 7_1                                                        		= 10_27 = Tingle 4
+Hidden Wall 1 = 7_2
+Hidden Wall 2 = 7_3
+Open Wall 2 = 7_4
+Open Wall 3 = 7_5
+
+FOREST
+Hidden Wall 1 = 8_1
+---Hidden Wall 2 = 8_2                                                    		= 10_24
+Open Wall 1 = 8_3
+---Open Wall 2 = 8_4                                                       		= 10_10 = Sword 1
+
+DEEP FOREST
+Open Wall 1 = 9_1
+---Open Wall 2 = 9_2                                                       		= 10_25
+
+MOUNTAINS
+Open Wall 1 = 10_1
+Hidden Wall 1 = 10_2
+Hidden Wall 2 = 10_3
+Hidden Wall 3 = 10_4
+Hidden Wall 4 = 10_5
+
+DEEP MOUNTAINS
+---Hidden Cave 1 = 11_1                                                   		= 10_28
+Hidden Cave 2 = 11_2
+Hidden Cave 3 = 11_3
+Open Cave 1 = 11_4
+Open Cave 2 = 11_5                                                          		= 10_26
+Open Cave 3 = 11_6 
+Shrine = 11_7                                                                		= 10_32

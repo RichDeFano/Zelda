@@ -1,0 +1,277 @@
+
+what do nayru and rod offer as an item?
+
+///////////////////////////Additions///////////////////////
+Quit to Main Menu(asking are you sure/save?)
+Exit Game(asking are you sure/save?)
+main menu options/pause menu options
+Controller configuration
+Pausing on screen 3 cursor goes away
+
+nayru crystals should have some form of explosion
+water animations
+shallow water animations
+tunic activation graphics?
+	pulsing shield animation or something else
+	more glowing for sword
+nayru should have zed ult pop
+name on pause menu
+////////////////////////////Glitches and bugs////////////////////////
+using sword should override movement
+grave in cemetary doesnt go away
+graves dont stay pushed
+if moving while using bow, can release C and have to repress.
+post wooden sword animation freezes
+link isnt in correct spot sometimes?
+
+////////////////////////////////Possible for demo 2///////////////
+Torches and dark rooms
+Magical Boomerangs having different effects
+adding all things in overworld to inside a cave
+-----------
+?boomerang needs to bounce off walls?
+DEMO 1 
+
+42-50
+
+
+file 1 - 176/92 (first note 117/94)
+file 2 - 176/112(first note 117/115)
+file 3 - 176/136(first note 117/138)
+
+119,133,147,161,175,189,203,217,232
+
+white =
+green =*
+red = ^
+blue = %
+gold = &
+lt blue = @ ----
+orange = + ----
+purp = #
+red = ~ ----
+
+
+MAP -- ITEMS -- PROGRESS -- MAP -- ITEMS -- PROGRESS
+
+Heart containers out of maximum
+Slot for golden skulltullas
+songs unlocked
+saving and quitting/quitting to menu
+quiver/bomb upgrades
+magic upgrades
+
+
+note1 - 59,175
+note2 - 75,175
+note3 - 90,175
+note4 - 105,175
+note5 - 59,192
+note6 - 75,192
+note7 - 90,192
+note8 - 105, 192
+note9 - 80,209
+
+first slot - 56,124
+106,124
+56,156
+106,156
+
+heart text 90,66
+nayru = 1
+din = 2
+farore = 3
+
+ItemGet Nayru 51, Din 52, Farore 53;
+ButtonItems 24 = Nayru, 25 = Din, 26 = Farore;
+
+
+/////////////////////
+save 1
+119,133,146,161,175,189,203,217,232
+y=95
+////////////////////
+save 2
+155
+//////////////////////
+save 3
+215
+
+-------------------------------------------------
+Hearts 1 - 112,76
+Notes 1 - 176,95
+Triforce 1 - 276,78
+--
+Hearts 2 - 112,136
+Notes 2 - 176,155
+Triforce 2 - 276,138
+--
+Hearts 3 - 112,196
+Notes 3 - 176,215
+Triforce 3 - 276,198
+------------------------------------------------------
+11-1 = Quiver Upgrade
+11-5 = Tingle 3
+11-7 = Third Sword
+3-5 = Second Sword
+4-1 = Double Magic Meter
+6-4 = Bomb Bag Upgrade
+7-1 = Tingle 4
+8-2 = Tingle 1
+8-4 = First Sword
+9-2 = Tingle 2
+34-1/9 = hearts 1/9
+34-10 = heart 16
+34-11 = heart 17
+-----------
+---8 items---
+4 bottles
+---2 tunics---
+2 shields
+3 swords
+5 extras
+triforce pieces
+17 heart containers
+4 map locations
+3 goddess Boomerangs--
+9 notes
+Quiver Upgrade
+Bomb Bag Upgrade
+Magic Meter
+Double Magic Meter
+-----------------------------------------------------------------------------------------------------------
+Dungeon 1: TILES GOT
+	Theme: Regular Dungeon
+	Combat or Puzzle: Middle
+	Difficulty: Easy
+	Main Boss:
+	Puzzle Ideas: Bow and Arrow Eye, Timing Arrows, Shooting Arrows through fire
+	Main Spoil = Bow and Arrow
+	Extra Spoil 1 = /
+	Extra Spoil 2 = /
+
+Dungeon 2:
+	Theme: Deku Tree Like
+	Combat or Puzzle: Puzzle
+	Difficulty: Easy
+	Main Boss:
+	Puzzle Ideas: Cutting ropes with boomerang, hitting switches across gaps, stunning enemies you cant kill
+	Main Spoil = Boomerang
+	Extra Spoil 1 = /
+	Extra Spoil 2 = /
+
+Dungeon 3:
+	Theme: Fire/Underground theme. Dungeon only goes down
+	Combat or Puzzle: Combat heavy
+	Difficulty: Medium
+	Main Boss:
+	Puzzle Ideas: Bombing a switch and hitting a close one, holes in walls, immovable rocks
+	Main Spoil = Bombs
+	Extra Spoil 1 = Blue Tunic
+	Extra Spoil 2 = /
+
+Dungeon 4:
+	Theme: Water theme
+	Combat or Puzzle: Mainly Puzzle. Not many enemies
+	Difficulty: Easy combat wise, difficult puzzles
+	Main Boss:
+	Puzzle Ideas: Block Puzzles, swimming after flippers, hookshots over gaps. 
+	Main Spoil = Hookshot
+	Extra Spoil 1 = Flippers
+	Extra Spoil 2 = /
+
+Dungeon 5:	
+	Theme: Fancy, Temple of time
+	Combat or Puzzle: Neither. Story oriented. Maybe a few minibosses just to get the item.
+	Difficulty: quick, but multiple bosses
+	Main Boss: Ganon Shadow
+	Puzzle Ideas: To get farther into each room, requires you have bombs arrows and boomerang.
+	Main Spoil = Ocarina
+	Extra Spoil 1 = /
+	Extra Spoil 2 = /
+
+Dungeon 6: TILES GOT
+	Theme: Icy
+	Combat or Puzzle: Puzzle
+	Difficulty: first larger dungeons
+	Main Boss:
+	Puzzle Ideas: Sliding blocks, combat on ice, melting with arrows or torches, etc.
+	Main Spoil = Wizzrobe Wand
+	Extra Spoil 1 = /
+	Extra Spoil 2 = /
+
+Dungeon 7: TILES GOT
+	Theme: Haunted House
+	Combat or Puzzle: Puzzle
+	Difficulty: Long, not many enemies
+	Main Boss:
+	Puzzle Ideas: ghosts, cobwebs, 
+	Main Spoil = Candle
+	Extra Spoil 1 = Book for wand
+	Extra Spoil 2 =
+
+Dungeon 8: TILES GOT
+	Theme: Shadow Temple/The Well
+	Combat or Puzzle: Combat
+	Difficulty: Short but Hard
+	Main Boss:
+	Puzzle Ideas: fake walls that make weird noise, lots of undead enemies. Small but very mazelike.
+	Main Spoil = Red Tunic
+	Extra Spoil 1 = Nayru(after boss choose a goddess?)
+	Extra Spoil 2 =
+
+Dungeon 9:
+	Theme: Endgame. caves that leads to castle.
+	Combat or Puzzle: Both.
+	Difficulty: gg
+	Main Boss:
+	Puzzle Ideas: 1/2 rooms showing puzzles similar to the dungeons before, Staircase climb. To get to staircase you
+		need to gather 4 keys, dungeons 1/2 section 1 etc.
+	Main Spoil = Light Arrows
+	Extra Spoil 1 = Skeleton Key
+	Extra Spoil 2 =
+
+
+
+
+
+
+global.bombnumber = 30, bomb1
+global.bombnumber = 60, bomb2
+global.arrownumber
+global.gotmagic
+global.magicupgrade
+global.wallet1
+global.wallet2
+
+magic = 97,123
+arrow = 142,123
+wallet = 53,154
+bombbag = 97,154
+Death Counter = 142,154
+
+
+
+
+
+when canstartshootB is true and rightshootb is false
+global.shooting
+global.rightshootB
+
+
+
+global.canarrow = true
+
+Dungeon 1, Tiles Got, Room Tiled.(White)
+Dungeon 2, ***Deku tree needed***(Green)
+Dungeon 3, ***Fire needed***(Red)
+Dungeon 4, Tiles Got, Room Tiled.(Dark Blue)
+Dungeon 5, Tiles Got. Room Tiled.(Gold)
+Dungeon 6, Tiles Got, Room Tiled. Need More Things?(Light Blue)
+Dungeon 7, Tiles Got, Room Tiled.(Orange)
+Dungeon 8, Tiles Got, Room Tiled.(Purple)
+Dungeon 9, ***Dark castle needed***(Dark Red)
+
+/////Magic Costs
+
+
