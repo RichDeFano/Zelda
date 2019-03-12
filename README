@@ -1,3 +1,5 @@
  Contains an overworld, and 8 dungeons that as of now only contain a single room. This room holds the item(s) gained from 
- that dungeon. All character movement, items, and skills are mostly complete(minus interactions with some enemies etc).
- Controls: Z,X,C,V are your Action(Blue), Weapon(Green), and Item(Yellow) buttons. Arrow keys to move.
+ that dungeon. All character movement, items, and skills are mostly complete(minus interactions with some enemies etc). There are many 
+ objects scattered through the overworld that are not in their final locations, and just used for testing(such as boomerang upgrades
+ or magic upgrades)
+ Controls: Z,X,C,V are your Action(Blue), Weapon(Green), and Item(Yellow) buttons. Arrow keys to move. 
